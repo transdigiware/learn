@@ -1,0 +1,23 @@
+### YamlMime:Module
+title: Introduction to C#
+description: An introduction to the C# language.
+iconHref: http://via.placeholder.com/120x120
+metadata:
+  title:  Introduction to C#
+items:
+- title: Hello C#
+  type: tutorial
+  durationInMinutes: 30
+  href: ../tutorial/hello-world
+- title: Numbers
+  type: tutorial
+  durationInMinutes: 25
+  href: ../tutorial/numbers-in-csharp
+- title: Branches and Loops
+  type: tutorial
+  durationInMinutes: 40
+  href: ../tutorial/branches-and-loops
+- title: Interpolated Strings
+  type: tutorial
+  durationInMinutes: 20
+  href: ../tutorial/interpolated-strings
