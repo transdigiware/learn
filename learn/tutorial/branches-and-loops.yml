@@ -272,12 +272,3 @@ items:
 
   content: |
     You've completed the "branches and loops" quickstart.
-
-    You can continue these quickstarts on your own development environment. Learn the basics of [local development](local-environment.md) and then pick a quickstart. You can try this same exercise, move directly to the next quickstart, or start again at with the [numbers in C#](numbers-in-csharp-local.md) quickstart.
-
-    You can learn more about these concepts in these topics:
-
-    [If and else statement](../language-reference/keywords/if-else.md)
-    [While statement](../language-reference/keywords/while.md)
-    [Do statement](../language-reference/keywords/do.md)
-    [For statement](../language-reference/keywords/for.md)
