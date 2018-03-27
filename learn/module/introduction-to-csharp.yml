@@ -1,10 +1,11 @@
 ### YamlMime:Module
+uid: module-id-1
 title: Introduction to C#
 description: An introduction to the C# language.
 iconHref: http://via.placeholder.com/120x120
 metadata:
   title:  Introduction to C#
-items:
+units:
 - title: Hello C#
   type: tutorial
   durationInMinutes: 30
