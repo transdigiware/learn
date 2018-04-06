@@ -221,5 +221,5 @@ items:
 - content: |
     You've completed the "Hello C#" quickstart.
 challenge:
-  id: quiz-id-1
+  uid: quiz-id-1
   type: quiz
