@@ -1,15 +1,12 @@
 items:
-- name: Modules
-  items:
-  - name: Introduction to C#
-    href: ./module/introduction-to-csharp.yml
-- name: Tutorials
+- name: Introduction to C#
+  uid: learn.intro-to-csharp
   items:
   - name: Hello C#
-    href: ./tutorial/hello-world.yml
-  - name: Numbers
-    href: ./tutorial/numbers-in-csharp.yml
+    uid: learn.intro-to-csharp.hello-world
   - name: Branches and Loops
-    href: ./tutorial/branches-and-loops.yml
+    uid: learn.intro-to-csharp.branches
   - name: Interpolated Strings
-    href: ./tutorial/interpolated-strings.yml
+    uid: learn.intro-to-csharp.interpolated
+  - name: Numbers
+    uid: learn.intro-to-csharp.numbers
