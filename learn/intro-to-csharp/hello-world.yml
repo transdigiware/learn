@@ -45,5 +45,5 @@ items:
 - content: |
     You've completed the "Hello C#" quickstart.
 challenge:
-  uid: learn.intro-to-csharp.quiz
+  uid: learn.intro-to-csharp.hello-world.quiz
   type: quiz
