@@ -4,9 +4,11 @@ items:
   items:
   - name: Hello C#
     uid: learn.intro-to-csharp.hello-world
+  - name: Numbers
+    uid: learn.intro-to-csharp.numbers
   - name: Branches and Loops
     uid: learn.intro-to-csharp.branches
   - name: Interpolated Strings
     uid: learn.intro-to-csharp.interpolated
-  - name: Numbers
-    uid: learn.intro-to-csharp.numbers
+  - name: Collections in C#
+    uid: learn.intro-to-csharp.list-collection
